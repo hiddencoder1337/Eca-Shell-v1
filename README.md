@@ -1,5 +1,4 @@
-# Eca Shell V.1.2
-Eagle Cyber Army First Edition Shell<br>
+# Eagle Cyber Army First Edition Shell
 Coded by HiddenCoder<br><br>
 
 # New Feature in V.1.2
