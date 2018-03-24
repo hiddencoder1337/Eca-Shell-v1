@@ -2,5 +2,5 @@
 Coded by HiddenCoder<br><br>
 
 # New in V.1.2
-- Bin port and Backconnect with perl
+- Bind Port and Back Connect with perl
 - Fix some error in last version
